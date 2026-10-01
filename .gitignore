@@ -1,0 +1,6 @@
+*.secret
+wallet.txt
+wallet.secret
+phrase.txt
+mnemonic.txt
+secrets/
